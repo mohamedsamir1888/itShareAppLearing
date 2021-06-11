@@ -24,6 +24,7 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/bootstrap/dist/css/bootstrap.min.css",
               "src/styles.css"
             ],
             "scripts": []
@@ -119,6 +120,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "itshareShopeRouting"
+    }
+  },
+  "defaultProject": "itshareShopeRouting",
+  "cli": {
+    "analytics": "b61972f0-7311-4c30-a714-e64b13920881"
+  }
 }
